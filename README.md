@@ -2,6 +2,12 @@
 
 This is a simple SwiftUI app that allows users to share books. Users can view a list of available books, post new books, and view detailed information about each book. The app also supports borrowing books with a specified borrowing period.
 
+
+## Video Demo
+
+https://youtu.be/YpAL2MjHZKM
+
+
 ## Features
 
 - **Home View:** Display a list of available books with details like name, author, genre, and availability status.
@@ -41,6 +47,8 @@ Feel free to explore and customize the app as needed for your own use case!
 
 - Xcode 
 - SwiftUI
+
+
 
 ## Contribution
 
